@@ -17,6 +17,11 @@ export const metadata: Metadata = {
   description: "The ultimate creative platform combining stunning templates, powerful editing tools, and intelligent AI assistance. Create professional content in seconds, not hours.",
   keywords: ["AI", "creative", "templates", "editing", "design", "art", "content creation"],
   authors: [{ name: "Aura Art Team" }],
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+    apple: "/favicon.svg",
+  },
   openGraph: {
     title: "Aura Art - AI meets creativity",
     description: "The ultimate creative platform combining stunning templates, powerful editing tools, and intelligent AI assistance.",
